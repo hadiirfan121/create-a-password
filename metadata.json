@@ -1,0 +1,8 @@
+{
+  "name": "The Password Game - 75 Minute Challenge",
+  "description": "A deliciously absurd password puzzle game inspired by Neal.fun with a 75-minute timer, 32+ chaotic rules, interactive mini-games, and Paul the chicken.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
